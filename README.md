@@ -58,7 +58,7 @@ Q: I can't see "Addon groups" button\
 A: Make sure you did everything what I said in ***Installation*** section
 
 Q: Why you didn't put this on workshop?\
-A: Garry doesn't allow to upload ".html" and ".js" files to workshop because these files are *dangerous*. Also I couldn't find any way to add menu state lua code in addon.
+A: Garry doesn't allow to upload ".html" and ".js" files to workshop because these files are *"dangerous"*. Also I couldn't find any way to add menu state lua code in addon.
 
 Q: I found bug\
 A: Click "Issues" button on the top of this page and create new issue
