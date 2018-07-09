@@ -1,4 +1,4 @@
---Addon groups by reated by danx91
+--Addon groups created by danx91
 
 --Some useful functions
 local MainMenu = nil
