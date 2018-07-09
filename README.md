@@ -1,6 +1,6 @@
 # Addon Groups
 ## About
-Addon Groups is addons managment tool This modification allows you to create addons groups and manage them. Addon Groups can simply enable or disable bunch of addons by one click.
+Addon Groups is addons management tool. This modification allows you to create addons groups and manage them. Addon Groups can simply enable or disable bunch of addons by one click.
 
 ## Installation
 1. Turn off Garry's Mod
@@ -13,6 +13,32 @@ Addon Groups is addons managment tool This modification allows you to create add
 8. If everything works, you should see "Addon groups" button in "Addons"
 
 ## Usage
+#### Adding and removing addons to group
+1. Go to 'Addons > Subscriptions' and select checkboxes on addons you want to add/remove
+2. Type group name in "Group name" text box
+3. Click "Add selected to group" or "Remove selected from group"
+
+*(If you add addon to non existing group, new group will be created. If you remove last addon from group, this group will be removed)*
+
+#### Removing groups
+1. Go to 'Addons > Addon groups' and select checkboxes on groups you want to remove
+2. Click "Remove selected groups" button
+
+#### Removing all groups
+1. Go to 'Addons > Addon groups'
+2. Click "Remove all groups" button
+
+#### Enabling and disabling one group
+1. Go to 'Addons > Addon groups' and hover mouse on group you want to enable/disable
+2. Click "Enable" or "Disable" button
+
+#### Enabling and disabling groups
+1. Go to 'Addons > Addon groups' and select checkboxes on groups you want to enable/disable
+2. Click "Enable selected groups" or "Disable selected groups" button
+
+#### Enabling and disabling all groups
+1. Go to 'Addons > Addon groups'
+2. Click "Enable all groups" or "Disable all groups" button
 
 ## Deinstallation
 1. Turn off Garry's Mod
@@ -28,3 +54,14 @@ Paths:
 - html\js\menu\
 
 ## Questions you may ask
+Q: I can't see "Addon groups" button\
+A: Make sure you did everything what I said in ***Installation*** section
+
+Q: Why you didn't put this on workshop?\
+A: Garry doesn't allow to upload ".html" and ".js" files to workshop because these files are *dangerous*. Also I couldn't find any way to add menu state lua code in addon.
+
+Q: I found bug\
+A: Click "Issues" button on the top of this page and create new issue
+
+Q: Can I make pull request?\
+A: Sure
