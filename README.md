@@ -1,4 +1,8 @@
 # Addon Groups
+
+## Outdated
+Currently this addon will break saves and dupes in addons list.
+
 ## About
 Addon Groups is addons management tool. This modification allows you to create addons groups and manage them. Addon Groups can simply enable or disable bunch of addons by one click.
 
